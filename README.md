@@ -17,7 +17,7 @@
 <a href="https://github.com/mickeynagasaki12/Prime/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mickeynagasaki12/Prime?label=Watching&style=social"></a>
 </p>
  
-<h1 align="center">𓅓𝐏𝐑𝐈𝐌𝐄-𝐀𝐈𓅓</h1>
+<h1 align="center">𓆉𝐏𝐑𝐈𝐌𝐄-𝐀𝐈𓆉</h1>
 
 <h2 align="left">ＳＥＳＳＩＯＮ ＩＤ (ＰＡＩＲ ＣＯＤＥ)</h2>
 <p align="left">
