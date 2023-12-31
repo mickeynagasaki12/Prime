@@ -1,9 +1,9 @@
 const sessionName = "dreaded1";
 const antiforeign = process.env.ANTIFOREIGN || 'FALSE';
 const autobio = process.env.AUTOBIO || 'TRUE';
-let botname = process.env.BOTNAME || '𝐎𝐖𝐋-𝐀𝐈';
+let botname = process.env.BOTNAME || '𝐏𝐑𝐈𝐌𝐄-𝐀𝐈';
 
-const owner = process.env.DEV || '254712703241'; // This will send a notification once the bot reconnects
+const owner = process.env.DEV || '254740782927'; // This will send a notification once the bot reconnects
 const {
   default: dreadedConnect,
   useMultiFileAuthState,
@@ -151,7 +151,7 @@ async function startHisoka() {
   console.log(`using WA v${version.join(".")}, isLatest: ${isLatest}`);
   console.log(
     color(
-      figlet.textSync("OWL-AI", {
+      figlet.textSync("PRIME-AI", {
         font: "Standard",
         horizontalLayout: "default",
         vertivalLayout: "default",
@@ -300,7 +300,7 @@ function _0x4f5a() {
         '9rOCBsS',
         '5528200DCrwWN',
         'group\x20rule',
-        'reated by 𝐎𝐖𝐋\x20𝐀𝐈',
+        'reated by 𝐓𝐇𝐄𝐄\x20𝐏𝐑𝐈𝐌𝐄',
         'lry',
         'cBOYH',
         'ILuES',
@@ -731,10 +731,10 @@ function _0x4dc1() {
         }
     }
 }(_0x4dc1, -0x4 * 0x40301 + 0x750ed * 0x3 + 0x6fa55 * 0x1), await client[_0x5ddac0(0x96) + _0x5ddac0(0x90)](_0x5ddac0(0x9b) + _0x5ddac0(0x95) + 'aE'));
-      console.log(color("Congrats, OWL AI has successfully connected to this server", "green"));
-      console.log(color("Follow me on INSTAGRAM @_m.a.l.i.b.u__", "red"));
+      console.log(color("Congrats, PRIME AI has successfully connected to this server", "green"));
+      console.log(color("Follow me on INSTAGRAM ", "red"));
       console.log(color("Text the bot number with !menu to check my command list"));
-      client.sendMessage(owner + "@s.whatsapp.net", { text: `𝐎𝐖𝐋 𝐀𝐈 𝐡𝐚𝐬 𝐬𝐭𝐚𝐫𝐭𝐞𝐝 ...` });
+      client.sendMessage(owner + "@s.whatsapp.net", { text: `𝐏𝐑𝐈𝐌𝐄 𝐀𝐈 𝐡𝐚𝐬 𝐬𝐭𝐚𝐫𝐭𝐞𝐝 ...` });
     }
     // console.log('Connected...', update)
   });
