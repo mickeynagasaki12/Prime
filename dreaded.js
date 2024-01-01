@@ -1880,7 +1880,7 @@ case "movie":
  break; 
         
        case "script": case "repo": case "sc": 
- client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/713a8d1f2e844f9fa4a4e.jpg' }, caption: `You can deploy this bot using the github link below!\nFork and enjoy our kenyan bot✨.\n\nhttps://github.com/primemike/prime-ai\n\nget your pairing code in this link [https://replit.com/@mickeynagasaki1/Pairing-prime?v=1]\n\nenjoy and have fun 😊 with our bot\n\nMade on Earth by Mike!` }, {quoted: m}); 
+ client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/713a8d1f2e844f9fa4a4e.jpg' }, caption: `You can deploy this bot using the github link below!\nFork and enjoy our kenyan bot✨.\n\nhttps://github.com/mickeynagasaki12/prime\n\nget your pairing code in this link [https://replit.com/@mickeynagasaki1/Pairing-prime?v=1]\n\nenjoy and have fun 😊 with our bot\n\nMade on Earth by Mike!` }, {quoted: m}); 
   
  break
 
