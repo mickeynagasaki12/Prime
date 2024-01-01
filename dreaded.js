@@ -1917,7 +1917,7 @@ case "movie":
              let txt = `</ Dreaded Broadcast >\n\n🀄 Message: ${text}\n\nAuthor: ${pushname}` 
              await client.sendMessage(i, { 
                  image: { 
-                     url: "https://telegra.ph/file/1d0fb63c857138f5bee51.jpg" 
+                     url: "https://telegra.ph/file/20026fd8e66cb7f45bd92.jpg" 
                  }, 
                  caption: `${txt}` 
              }) 
