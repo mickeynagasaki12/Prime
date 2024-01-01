@@ -11,7 +11,7 @@
 <p/>
 
 <p align="center">
-<a href="https://github.com/mickeynagasaki12tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/owlai01?label=Followers&style=social"></a>
+<a href="https://github.com/mickeynagasaki12tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/primemike?label=Followers&style=social"></a>
 <a href="https://github.com/mickeynagasaki12/Prime/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mickeynagasaki12/Prime?&style=social"></a>
 <a href="https://github.com/mickeynagasaki12/Primenetwork/members"><img title="Fork" src="https://img.shields.io/github/forks/mickeynagasaki12/Prime?style=social"></a>
 <a href="https://github.com/mickeynagasaki12/Prime/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mickeynagasaki12/Prime?label=Watching&style=social"></a>
