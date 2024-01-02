@@ -1322,7 +1322,7 @@ break;
         
         case "system": 
   
-              client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/713a8d1f2e844f9fa4a4e.jpg' }, caption:`*_𝐁𝐎𝐓 𝐍𝐀𝐌𝐄: 𝐏𝐑𝐈𝐌𝐄-𝐀𝐈_*\n\n*_𝐒𝐏𝐄𝐄𝐃:𝐏𝐨𝐧𝐠: ${dreadedspeed.toFixed(4)} 𝐦𝐬_*\n\n*_𝐑𝐔𝐍𝐓𝐈𝐌𝐄: ${runtime(process.uptime())}_*\n\n*_𝐏𝐋𝐀𝐓𝐅𝐎𝐑𝐌: Linux_*\n\n*_𝐇𝐎𝐒𝐓𝐍𝐀𝐌𝐄: Malibu_*\n\n*_𝐋𝐈𝐁𝐑𝐀𝐑𝐘: Baileys_*`}); 
+              client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/713a8d1f2e844f9fa4a4e.jpg' }, caption:`*_𝐁𝐎𝐓 𝐍𝐀𝐌𝐄: 𝐏𝐑𝐈𝐌𝐄-𝐀𝐈_*\n\n*_𝐒𝐏𝐄𝐄𝐃:𝐏𝐨𝐧𝐠: ${dreadedspeed.toFixed(4)} 𝐦𝐬_*\n\n*_𝐑𝐔𝐍𝐓𝐈𝐌𝐄: ${runtime(process.uptime())}_*\n\n*_𝐏𝐋𝐀𝐓𝐅𝐎𝐑𝐌: Linux_*\n\n*_𝐇𝐎𝐒𝐓𝐍𝐀𝐌𝐄: Mike_*\n\n*_𝐋𝐈𝐁𝐑𝐀𝐑𝐘: Baileys_*`}); 
  break; 
 
 case "speed": 
