@@ -1733,7 +1733,7 @@ case "ping": case "speed": {
 
 case "alive": { 
   
- client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/9f7460efc663367b5154c.jpg' }, caption: `Hello ${m.pushName}, 𝐏𝐑𝐈𝐌𝐄 𝐀𝐈 is alive since  ${runtime(process.uptime())}`, fileLength: "9999999999898989899999999" }, { quoted: m }); 
+ client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/1fec76a969c9c47e6e536.mp4' }, caption: `Hello ${m.pushName}, 𝐏𝐑𝐈𝐌𝐄 𝐀𝐈 is alive since  ${runtime(process.uptime())}`, fileLength: "9999999999898989899999999" }, { quoted: m }); 
  }
 break;
 case 'apk': {
