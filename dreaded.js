@@ -1327,7 +1327,7 @@ break;
 
 case "credits": 
   
-              client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/99be422360f151e7e3719.jpg' }, caption: `We express sincere gratitude and acknowledgement to the following:\n\n -Dika Ardnt ➪ Indonesia\n - Writing the base code using case method\nhttps://github.com/DikaArdnt\n\n -Adiwajshing ➪ India\n - Writing and Coding the bot's library (baileys)\nhttps://github.com/WhiskeySockets/Baileys\n\n -WAWebSockets Discord Server community\n-Maintaining and reverse engineering the Web Sockets\nhttps://discord.gg/WeJM5FP9GG\n\n - Fortunatus Mokaya ➪ Kenya\n - Actively compiling and debugging parts of this bot script\nhttps://github.com/Fortunatusmokaya\n\n𝐃𝐑𝐄𝐗_𝐀𝐈 𝐁𝐎𝐓 シ︎`}); 
+              client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/3095071f980dca37ecbfa.jpg' }, caption: `We express sincere gratitude and acknowledgement to the following:\n\n -Dika Ardnt ➪ Indonesia\n - Writing the base code using case method\nhttps://github.com/DikaArdnt\n\n -Adiwajshing ➪ India\n - Writing and Coding the bot's library (baileys)\nhttps://github.com/WhiskeySockets/Baileys\n\n -WAWebSockets Discord Server community\n-Maintaining and reverse engineering the Web Sockets\nhttps://discord.gg/WeJM5FP9GG\n\n - Fortunatus Mokaya ➪ Kenya\n - Actively compiling and debugging parts of this bot script\nhttps://github.com/Fortunatusmokaya\n\nPRIME_𝐀𝐈 𝐁𝐎𝐓 シ︎`}); 
  break;
         
 case "speed": 
