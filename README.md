@@ -1,6 +1,6 @@
  <p align="center">  
   <a href="">
-    <img alt="𝐏𝐑𝐈𝐌𝐄-𝐀𝐈" width="600" height="350" src="https://telegra.ph/file/54ba01cf94a6b8bdc3f50.jpg/iI086tX.jpeg">
+    <img alt="𝐏𝐑𝐈𝐌𝐄-𝐀𝐈" width="600" height="350" src="https://a.uguu.se/MsXcRvYz.mp4'">
   </a>
 </p>
 
